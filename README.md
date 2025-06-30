@@ -55,24 +55,24 @@ educative-management-system/
 ## 📸 Demo Screenshots
 
 ### Landing Page  
-![Landing](screenshots/s1.png)
-![Landing](screenshots/s2.png)
-![Landing](screenshots/s3.png)
+![Landing](screenshots/S1.png)
+![Landing](screenshots/S2.png)
+![Landing](screenshots/S3.png)
 ###  Teachers, Students and Subjects Interfaces 
-![Teacher Form](screenshots/s4.png)
+![Teacher Form](screenshots/S4.png)
 
 ![Student Form](screenshots/s4b.png)
 
 ![Subject Form](screenshots/s4c.png)
 ### Class Lectures and Enrollments Interafces
 
-![DB Diagram](screenshots/s5.png)
+![DB Diagram](screenshots/S5.png)
 
-![DB Diagram](screenshots/s5B.png)
+![DB Diagram](screenshots/S5B.png)
 
-![DB Diagram](screenshots/s6.png)
+![DB Diagram](screenshots/S6.png)
 
-![DB Diagram](screenshots/s6B.png)
+![DB Diagram](screenshots/S6B.png)
 ---
 
 ## 🧠 Features
